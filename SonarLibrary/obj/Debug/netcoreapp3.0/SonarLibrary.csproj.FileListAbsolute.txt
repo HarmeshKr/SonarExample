@@ -1,0 +1,8 @@
+D:\Code\SonarCubeExamples\DotNetCore\SonarLibrary\bin\Debug\netcoreapp3.0\SonarLibrary.deps.json
+D:\Code\SonarCubeExamples\DotNetCore\SonarLibrary\bin\Debug\netcoreapp3.0\SonarLibrary.dll
+D:\Code\SonarCubeExamples\DotNetCore\SonarLibrary\bin\Debug\netcoreapp3.0\SonarLibrary.pdb
+D:\Code\SonarCubeExamples\DotNetCore\SonarLibrary\obj\Debug\netcoreapp3.0\SonarLibrary.csprojAssemblyReference.cache
+D:\Code\SonarCubeExamples\DotNetCore\SonarLibrary\obj\Debug\netcoreapp3.0\SonarLibrary.AssemblyInfoInputs.cache
+D:\Code\SonarCubeExamples\DotNetCore\SonarLibrary\obj\Debug\netcoreapp3.0\SonarLibrary.AssemblyInfo.cs
+D:\Code\SonarCubeExamples\DotNetCore\SonarLibrary\obj\Debug\netcoreapp3.0\SonarLibrary.dll
+D:\Code\SonarCubeExamples\DotNetCore\SonarLibrary\obj\Debug\netcoreapp3.0\SonarLibrary.pdb

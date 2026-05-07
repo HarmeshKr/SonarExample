@@ -1,0 +1,11 @@
+E:\DotNetCore\SonarLibrary\bin\Debug\net10.0\SonarLibrary.deps.json
+E:\DotNetCore\SonarLibrary\bin\Debug\net10.0\SonarLibrary.dll
+E:\DotNetCore\SonarLibrary\bin\Debug\net10.0\SonarLibrary.pdb
+E:\DotNetCore\SonarLibrary\obj\Debug\net10.0\SonarLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNetCore\SonarLibrary\obj\Debug\net10.0\SonarLibrary.AssemblyInfoInputs.cache
+E:\DotNetCore\SonarLibrary\obj\Debug\net10.0\SonarLibrary.AssemblyInfo.cs
+E:\DotNetCore\SonarLibrary\obj\Debug\net10.0\SonarLibrary.csproj.CoreCompileInputs.cache
+E:\DotNetCore\SonarLibrary\obj\Debug\net10.0\SonarLibrary.dll
+E:\DotNetCore\SonarLibrary\obj\Debug\net10.0\refint\SonarLibrary.dll
+E:\DotNetCore\SonarLibrary\obj\Debug\net10.0\SonarLibrary.pdb
+E:\DotNetCore\SonarLibrary\obj\Debug\net10.0\ref\SonarLibrary.dll
